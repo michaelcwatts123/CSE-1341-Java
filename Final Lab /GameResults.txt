@@ -1,0 +1,3 @@
+Number of Players: 2
+Player: Michael has $10400
+Player: Watts has $0
